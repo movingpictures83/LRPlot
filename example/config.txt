@@ -1,0 +1,2 @@
+Prefix plugins/LRPlot/example/
+Plugin LRPlot inputfile learningrate.txt outputfile ./
